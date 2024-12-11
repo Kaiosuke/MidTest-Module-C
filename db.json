@@ -1,0 +1,114 @@
+{
+  "products": [
+    {
+      "id": 4,
+      "title": "Product D321312",
+      "price": 21,
+      "description": "This is product D",
+      "thumbnail": "https://picsum.photos/200/300.webp",
+      "stock": 100,
+      "categoryId": 3
+    },
+    {
+      "id": 5,
+      "title": "Product E",
+      "price": 200,
+      "description": "This is product E",
+      "thumbnail": "https://picsum.photos/200/300.webp",
+      "stock": 100,
+      "categoryId": 3
+    },
+    {
+      "id": 6,
+      "title": "Product F",
+      "price": 250,
+      "description": "This is product F",
+      "thumbnail": "https://picsum.photos/200/300.webp",
+      "stock": 100,
+      "categoryId": 3
+    },
+    {
+      "title": "test1321",
+      "description": "des 1",
+      "price": 112,
+      "categoryId": 1,
+      "id": 7
+    },
+    {
+      "title": "das",
+      "description": "q3",
+      "price": 231,
+      "categoryId": 2,
+      "id": 8
+    },
+    {
+      "title": "321",
+      "description": "321",
+      "price": 2,
+      "categoryId": 1,
+      "id": 9
+    },
+    {
+      "title": "321",
+      "description": "321",
+      "price": 2,
+      "categoryId": 2,
+      "id": 10
+    },
+    {
+      "title": "321",
+      "description": "321",
+      "price": 3,
+      "categoryId": 1,
+      "id": 11
+    },
+    {
+      "title": "321",
+      "description": "321",
+      "price": 12,
+      "categoryId": 1,
+      "id": 12
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Technology",
+      "slug": "technology"
+    },
+    {
+      "id": 2,
+      "name": "Clothing",
+      "slug": "clothing"
+    },
+    {
+      "id": 3,
+      "name": "Others",
+      "slug": "others"
+    }
+  ],
+  "users": [
+    {
+      "email": "trongleele@gmail.com",
+      "password": "$2a$10$zrtlKOTP5zMllW8R.rPCHeOMLhzXZp36ExtkJOPQfmrPiaXxwg/TS",
+      "userName": "trongle",
+      "confirm": "trongle2001",
+      "isAdmin": true,
+      "id": 1
+    },
+    {
+      "email": "trongleele2@gmail.com",
+      "password": "$2a$10$cpM8udztTVJsK8yLOghb0ekOKweXrHv1dhGckcYX2xU.4m/97yo8e",
+      "userName": "trongle",
+      "confirm": "trongle2001",
+      "id": 2
+    },
+    {
+      "email": "trongleele3@gmail.com",
+      "password": "$2a$10$P8FRjz9OcNjhPxrVxMjR5eqBTV8BMF3JauYIPW6bQ5QxSy8zOKVJu",
+      "userName": "trongle",
+      "confirm": "trongle2001",
+      "id": 3
+    }
+  ]
+}
